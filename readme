@@ -1,0 +1,9 @@
+I have created a SPOTIFY CLONE which is bit different from Original, I Have tried to implement responsiveness to it, and made it look good in all type of device,
+
+to run this code you have to make some changes :
+1. search for port in html and js file and update it it is by default 5500 change it to your own port
+2. if you want to add more songs ;
+    a. make a folder in songs folder
+    b. add json file and edit as per your title and decription
+    c. add cover.jpg to it as cover picture (it should be named same as cover.jpg of size 300x300px)
+3. it is recommended to use vs code.
